@@ -1,1 +1,1 @@
-# emotion_detection
+# Facial Emotion Recognition (FER)
