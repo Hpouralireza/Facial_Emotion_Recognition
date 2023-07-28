@@ -19,9 +19,11 @@ Both methods have the capability to detect 7 types of emotions, and the mentione
 
 Some results:
 
-![results](https://github.com/Hpouralireza/Facial_Emotion_Recognition/assets/47522202/2c1baa91-db97-4426-a7f8-731f2464cd3b)
+![results](https://github.com/Hpouralireza/Facial_Emotion_Recognition/assets/47522202/74027aa9-4a13-4082-ad03-a4dc25d0dd1b)
 
 #
+
 With comparing the two trained models using the same input, it can be concluded that the deepFace model has lower accuracy compared to the our trained model with the dataset.
 
-![comparing results](https://github.com/Hpouralireza/Facial_Emotion_Recognition/assets/47522202/b7311690-62b7-4799-a4ef-8d986249c9b1)
+![comparing result](https://github.com/Hpouralireza/Facial_Emotion_Recognition/assets/47522202/c56de33f-a382-40a7-8d26-e5596aba0a97)
+
